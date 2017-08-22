@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUFT.DAL", "VUFT.DAL\VUFT.DAL.csproj", "{43629372-7962-4F00-BE12-3DEFCDFE01AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUFT.UI", "VUFT.UI\VUFT.UI.csproj", "{16735B31-CA47-427F-B9AF-CBCF4CB7BA82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43629372-7962-4F00-BE12-3DEFCDFE01AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43629372-7962-4F00-BE12-3DEFCDFE01AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43629372-7962-4F00-BE12-3DEFCDFE01AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43629372-7962-4F00-BE12-3DEFCDFE01AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16735B31-CA47-427F-B9AF-CBCF4CB7BA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16735B31-CA47-427F-B9AF-CBCF4CB7BA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16735B31-CA47-427F-B9AF-CBCF4CB7BA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16735B31-CA47-427F-B9AF-CBCF4CB7BA82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://svirtual:8080/tfs/vuft
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VUFT.DAL\\VUFT.DAL.csproj
+		SccProjectName1 = VUFT.DAL
+		SccLocalPath1 = VUFT.DAL
+		SccProjectUniqueName2 = VUFT.UI\\VUFT.UI.csproj
+		SccProjectName2 = VUFT.UI
+		SccLocalPath2 = VUFT.UI
+	EndGlobalSection
+EndGlobal
